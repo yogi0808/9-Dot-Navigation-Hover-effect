@@ -2,7 +2,7 @@
 9 dot navigation with hover effect
 
 
-#Screenshots
+<h1>#Screenshots</h1>
 
 ![Screenshot 2023-10-25 174855](https://github.com/yogi0808/9-Dot-Navigation-Hover-effect/assets/148646093/6ab96d61-68c3-4f04-9a3b-8245249752ff)
 
